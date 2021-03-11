@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parchimetro", "Parchimetro\Parchimetro.csproj", "{65116608-DA57-4F24-973F-6909FE2BBD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParchTest", "ParchTest\ParchTest.csproj", "{C929FE1F-B90B-4407-A520-8855A339063B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65116608-DA57-4F24-973F-6909FE2BBD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65116608-DA57-4F24-973F-6909FE2BBD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65116608-DA57-4F24-973F-6909FE2BBD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65116608-DA57-4F24-973F-6909FE2BBD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C929FE1F-B90B-4407-A520-8855A339063B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C929FE1F-B90B-4407-A520-8855A339063B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C929FE1F-B90B-4407-A520-8855A339063B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C929FE1F-B90B-4407-A520-8855A339063B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5AD3CA-BAC3-4332-BC69-95E2C01DBA50}
+	EndGlobalSection
+EndGlobal
